@@ -1,0 +1,8 @@
+KisanSetu AI assets extracted from the KisanSetu AI Asset Preview Board.
+
+Folders: crops, farmers, buyers, ai, banners, markets, logistics, procurement, logo.
+Note: These are crops from the preview board, so they are preview-resolution images, not original high-resolution source assets.
+
+Flutter example:
+assets/crops/wheat.png
+assets/farmers/farmer1.jpg
